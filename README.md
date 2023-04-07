@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/cestlascorpion/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cestlascorpion)](https://github.com/cestlascorpion/github-readme-stats)
+
 <!--
 **cestlascorpion/cestlascorpion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
